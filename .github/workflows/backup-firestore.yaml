@@ -6,7 +6,7 @@ on:
 
 env:
   PROJECT_ID: nmpl-7970d
-  BUCKET: gs://backup-nmpl-7970d-firestoredb-bucket-01012023
+  BUCKET: gs://staging.nmpl-7970d.appspot.com
   
 jobs:
   backup:
